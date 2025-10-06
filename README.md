@@ -4,7 +4,7 @@
 ## About Me 🚀
 
 I'm a passionate **Cs Undergrad**
-- 🌱 Currently learning: **Web development**
+- 🌱 Currently learning: **Web development and Generative AI**
 - 🌍 Languages: **React |Js |Java |Python**
 - 📫 How to reach me: **https://x.com/VaibhavTandon06**
 
