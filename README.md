@@ -17,3 +17,8 @@ I'm a passionate **Cs Undergrad**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
+## Badge 🎖️
+[![An image of @tvaibhav06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tvaibhav06)](https://holopin.io/@tvaibhav06)
+
+
+
