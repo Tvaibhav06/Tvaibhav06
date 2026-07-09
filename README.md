@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on open issues<br>🌱 I’m currently learning ML<br>
+👯 I’m looking to collaborate on open issues<br>🌱 I’m currently learning AI ML<br>
 
 
 ## 🌐 Socials:
